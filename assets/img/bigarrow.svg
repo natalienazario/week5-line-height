@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="863px" viewBox="0 0 52 863" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-5.000000, -270.000000)" fill="#60B3D4">
+            <g id="arrow" transform="translate(32.000000, 701.500000) scale(1, -1) translate(-32.000000, -701.500000) translate(6.000000, 270.000000)">
+                <polygon id="Path" fill-rule="nonzero" points="-1 829 25.5758146 863 51 829 25.4858928 843.065676"></polygon>
+                <polygon id="Path" fill-rule="nonzero" transform="translate(25.000000, 17.000000) scale(1, -1) translate(-25.000000, -17.000000) " points="-1 0 25.5758146 34 51 0 25.4858928 14.0656763"></polygon>
+                <rect id="Rectangle" x="19" y="17" width="13" height="829"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
